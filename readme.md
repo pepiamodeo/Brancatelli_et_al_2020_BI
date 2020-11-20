@@ -8,6 +8,9 @@ Authors:
 * Amodeo, M.R. 
 * Zalba, S.M. 
 
+This repository is preserved by Zenodo
+[![DOI](https://zenodo.org/badge/314306887.svg)](https://zenodo.org/badge/latestdoi/314306887)
+
 ### Project description
 
 This R project consists in the datasets used for the production of the analyses and plots exposed in the article. Time to event analysis applied to seedling emergence and survival data of *Pinus halepensis* experiments, as an invasive species in Sierra de la Ventana mountains in the southwest of Buenos Aires Province, Argentina.
